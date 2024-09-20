@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "scrollreveal": "^4.0.9"
   },
   "name": "bootstrapnpm",
   "version": "1.0.0",
